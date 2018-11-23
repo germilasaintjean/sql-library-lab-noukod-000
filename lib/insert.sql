@@ -1,6 +1,6 @@
 INSERT INTO series(id, title, author_id,subgenre_id) values
-                    (1, "The science", 01, 40),
-                    (2, "The technologies", 02, 41);
+                    (1, "Study on science", 01, 40),
+                    (2, "Discover the fine arts", 02, 41);
 
 INSERT INTO Characters(id, name, species, motto, series_id, author_id) values
                                 (1, "name1", "motto1", 34, 45),
