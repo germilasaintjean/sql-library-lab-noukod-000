@@ -1,8 +1,8 @@
-INSERT INTO series(id, title, author_id,subgenre_id) values
+INSERT INTO series(id, title, author_id,subgenre_id) VALUES
                     (1, "Study on science", 01, 40),
                     (2, "Discover the fine arts", 02, 41);
 
-INSERT INTO Characters(id, name, species, motto, series_id, author_id) values
+INSERT INTO Characters(id, name, species, motto, series_id, author_id) VALUES
                                 (1, "name1", "motto1", 34, 45),
                                 (2, "name2", "motto2" 89, 56),
                                 (3, "nam3", "motto3", 30, 44),
